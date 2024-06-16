@@ -1,19 +1,18 @@
 import scala.math._
-
+//calculate area of Disck
 def AreaOfDisck(radius: Float): Double = {
     return (Pi *radius*radius);
 }
-
+// celsius -> Fahrenheit convert
 def celsiusToFahrenheit(tempInCelsius: Float): Double = {
     return (tempInCelsius*1.8+32.0);
 }
-
+//calculate volume of sphere
 def VolumeOfSphere(radius: Float): Double = {
     return (4/3*Pi*radius*radius*radius);
 }
 
 //calculate Book Price
-
 def Discount(price: Float) : Double = {
     return (price*0.4);
 }
@@ -38,6 +37,7 @@ def netvalue(pieces : Int , bookPrice : Float = 24.95 ) : Double = {
 //calculate total runnig time
 def totalRuningTime(): Float = 2*8+7+2*8;
 
+//main method
 def main(args: Array[String]): Unit = {
     println ("-"*50);
     println ("Area of a disk with radius 5: ");
