@@ -14,3 +14,5 @@ copies?
 5. I run 2 km at an easy pace (8 min per km), then 3 km at Tempo (7
 min per km) and 2 km at easy pace again to reach home. What is the
 total running time?
+
+token : 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
