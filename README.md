@@ -15,4 +15,3 @@ copies?
 min per km) and 2 km at easy pace again to reach home. What is the
 total running time?
 
-token : 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
